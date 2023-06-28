@@ -17,6 +17,16 @@ Comprehensive documentation of all the resources utilized by Ensign College
   </ul>
 </details>
 <details>
+  <summary>O</summary>
+  <ul>
+    <li>O'Reilly Database (Books and video courses of various topics including programming and Cybersecurity). Use the "Institution not listed?" option and login with your school account.
+      <ul>
+        <li><a href="https://www.oreilly.com/library-access/?orpq">O'Reilly login</a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+<details>
   <summary>P</summary>
   <ul>
     <li>ProxMox
